@@ -18,6 +18,6 @@ Library Management System using MySQL. Here i have created a mini library databa
    9. **Retrieve book_title from book table containing history.**
    10. **Retrieve the branch numbers along with the count of employees for branches having more than 5 employees.**
 
-**Note** : Datas creates are fictional used strictly for to demonstrate beginner data analysis skills. 
+**Note** : Datas createD are fictional used strictly for to demonstrate beginner data analysis skills. 
        The results are not official and should not be used to conclude actual relationships between the variables listed and education.
        
