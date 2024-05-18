@@ -196,7 +196,7 @@ WHERE Issue_status.Issue_date BETWEEN '2023-06-01' AND '2023-06-30';
 #9)Retrieve book_title from book table containing history. 
 SELECT Book_Title FROM Books WHERE Category = 'History';
 
-#10)Retrieve the branch numbers along with the count of employees for branches having more than 5 employees.
+#10) Retrieve the branch numbers along with the count of employees for branches having more than 5 employees.
 SELECT Branch_No,COUNT(*) as Total_employee FROM Employee GROUP BY Branch_No HAVING Total_employee > 5;
 
 
